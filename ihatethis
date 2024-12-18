@@ -33,7 +33,7 @@
 </head>
 <body>
 
-    <input type="text" id="wordInput" placeholder="Enter a word" oninput="updateWord()">
+    <input type="text" id="wordInput" placeholder="this is my website hope you like it" oninput="updateWord()">
     <div class="output" id="wordOutput"></div>
 
     <script>
